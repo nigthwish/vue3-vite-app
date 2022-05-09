@@ -20,7 +20,7 @@ git commit -m 'deploy'
 # 如果你要部署在 https://<USERNAME>.github.io
 git push -f git@github.com:nightwish/nightwish.github.io.git main
 
-# 如果你要部署在 https://<USERNAME>.github.io/<REPO>
+# 如果你要部署在 https://<USERNAME>.github.io/<REPO>https://github.com/nigthwish/vue3-vite-app.git
 # git push -f git@github.com:<USERNAME>/<REPO>.git main:gh-pages
 
 cd -
